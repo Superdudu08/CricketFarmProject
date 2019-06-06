@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CricketFarmApp</string>
+    <string name="creditsCricketsIcon">Cricket icon made by\nFreepik from www.flaticon.com</string>
+    <string name="creditsWarningIcon">Warning icon made by\nPixel Buddha from www.flaticon.com</string>
+    <string name="creditsSuccessIcon">Success icon made by\nFreepik from www.flaticon.com</string>
+
+    <string name="tutorialTitleSetUp">Set up the app</string>
+    <string name="tutorialTitleDayToDay">Day to day use</string>
+    <string name="tutorialTitlePickUp">Pick up the crickets</string>
+    <string name="tutorialTitleDoorControl">Controlling the door</string>
+
+    <string name="tutorialDescriptionSetUp">Get the system key from the device \n Enter it using  the SYNCHRONIZE button</string>
+    <string name="tutorialDescriptionDayToDay">Put your food leftovers in the device \n Refill the water bottle when needed</string>
+    <string name="tutorialDescriptionPickUp1">Press the PICK UP MODE button \n Wait 2 hours for the conditions to be adequate </string>
+    <string name="tutorialDescriptionPickUp2">Check that the crickets are inactive in the cage \n Lock and pick up the cage</string>
+    <string name="tutorialDescriptionDoorControl">When launching the system, leave the door open \n Close it when you see that eggs have hatched</string>
+    <string name="title_activity_prototypedrawer">prototypedrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>

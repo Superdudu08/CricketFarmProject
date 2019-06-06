@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3316274334",
+    "firebase_url": "https://cricketfarmapp.firebaseio.com",
+    "project_id": "cricketfarmapp",
+    "storage_bucket": "cricketfarmapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3316274334:android:219d89acffaf0c8a",
+        "android_client_info": {
+          "package_name": "com.example.cricketfarmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3316274334-o9po4u5e8ohmjsqv7skqerijtilco4bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cricketfarmapp",
+            "certificate_hash": "24238c73a3869d2126f77c8d9578513db582cb31"
+          }
+        },
+        {
+          "client_id": "3316274334-dcekhevj3co1kplli2fndugvmbv7n3p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFr5C3n4GF2FjzLMFehwEweylcvz4Imi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3316274334-dcekhevj3co1kplli2fndugvmbv7n3p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

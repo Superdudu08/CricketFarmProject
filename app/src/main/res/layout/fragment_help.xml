@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="?attr/actionBarSize"
+    android:background="#FFFFFF">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View the tutorial"
+        android:onClick="goToTutorial"
+        android:layout_marginBottom="7dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Expected Reading Values"
+        android:textAlignment="center"
+        android:layout_marginBottom="7dp"
+        android:textColor="#000000"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Temperature : Between 26°C and 32°C"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Adult Zone Humidity : Between 45 and 55%"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Egg Zone Humidity : Greater than 80%"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sponge Humidity : Between 50 and 60%"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:layout_marginBottom="40dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remember to close the door when you see that eggs have hatched. Otherwise the adult crickets may eat the young ones !"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginBottom="40dp"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:text="The living conditions of the crickets are adjusted automatically, which means you shouldn't worry if a few readings seems incorrect. However, if you get several wrong readings, it might suggest that the environnement in which you put the system isn't suitable."/>
+</LinearLayout>
